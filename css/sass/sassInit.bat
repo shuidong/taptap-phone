@@ -1,0 +1,1 @@
+sass --watch concern.scss:../concern.css --style compressed
