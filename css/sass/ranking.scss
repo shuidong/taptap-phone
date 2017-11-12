@@ -63,6 +63,7 @@ html,body{
 			color:#fff;
 			width: 0.68rem;
 			margin: 0 auto;
+			font-size: 0.18rem;
 		}
 	}
 	.header_right>a{
@@ -143,6 +144,8 @@ html,body{
 					margin-left: 0.07rem;
 				}
 				.box_word_mid{
+					display: flex;
+					align-items: center;
 					.box_img{
 						float: left;
 						margin-left: 0.07rem;

@@ -1,1 +1,2 @@
-sass --watch concern.scss:../concern.css --style compressed
+
+sass  --watch index.scss:../index.css --style compressed
